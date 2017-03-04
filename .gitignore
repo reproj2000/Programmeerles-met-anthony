@@ -1,0 +1,6 @@
+*.sln
+*.suo
+Magic8ball/bin/*
+Magic8ball/obj/*
+*.csproj
+*.csproj.user
